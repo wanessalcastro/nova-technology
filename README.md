@@ -1,2 +1,2 @@
-# nova-technology
+# nova-tech
 E-commerce de smartphones
